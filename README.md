@@ -1,0 +1,9 @@
+- Hi, I’m @Vorenoid
+->preferred to be called Voren
+- I’m interested in cyber security
+- I’m currently learning python 
+
+<!---
+Vorenoid/Vorenoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
