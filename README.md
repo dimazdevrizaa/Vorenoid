@@ -1,5 +1,5 @@
 - Hi, I’m @Vorenoid
-->preferred to be called Voren
+->preferred to be called Dimaz Devriza
 - I’m interested in cyber security
 - I’m currently learning python 
 
